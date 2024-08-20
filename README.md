@@ -71,7 +71,8 @@ print(result)
     "country": "US",
     "detected": true,
     "gender": "male"
-  }
+  },
+  "code": 200
 }
 ```
 
